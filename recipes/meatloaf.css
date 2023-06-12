@@ -1,0 +1,14 @@
+body{
+    border:3px solid red;
+    margin-left:30%;
+    margin-right:30%;
+    margin-bottom:10%;
+    margin-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+img{
+    width: 30%;
+    padding-left: 10%;
+}
