@@ -7,16 +7,17 @@ body{
 li{
     text-align: center;
     display:inline-block;
-    margin-right: 20px;
+    margin-right: 50px;
     border: 2px solid #8B4513;
-    color: #556B2F;
+    color:purple;
     padding: 5px;
-    box-shadow: 0 0 10px rgba(0, 128, 0, 0.6);
+    box-shadow: 0 0 8px #D2B48C;
 
+    background: purple;
 }
 a{
     text-decoration:none;
-    color: green;
+    color:  #FFFF00;
 }
 img{
    margin:0 auto;
@@ -25,5 +26,17 @@ img{
 h1{
     font-size: 40px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color:#36454F;
+    color:#c9501893;
+    font-weight:900;
+}
+h2{
+    color:#c9501893;
+}
+.potatoes{
+    width: 100px;
+    height:auto;
+    position: relative;
+    top:0;
+    left:0;
+    
 }
