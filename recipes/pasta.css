@@ -1,13 +1,34 @@
 body{
-    border:3px solid green;
+    border:10px solid #c9501893;;
     margin-right:30%;
     margin-bottom:12%;
     margin-top: 2%;
     padding-left: 2%;
     padding-right: 2%;
     padding-bottom: 2%;
+    background: #E6E6FA;
+    border-radius: 13%;  
+    border-style:inset; 
 }
 img{
     width: 40%;
     padding-left: 5%;
 }
+ul,ol{
+    font-style:oblique;
+    color:rgb(37, 33, 33);
+} 
+.homepage{
+    text-decoration: none;
+    border: 2px solid #8B4513;
+    margin-left:35%;
+    color:#FFFF00;
+    background: rgb(109, 30, 109);
+    border-radius: 5px;
+    padding:10px;
+} 
+.homepage:hover{
+    background: #E6E6FA;
+    color:purple;
+}     
+    
