@@ -12,7 +12,6 @@ li{
     color:purple;
     padding: 5px;
     box-shadow: 0 0 8px #D2B48C;
-
     background: purple;
 }
 a{
@@ -31,12 +30,4 @@ h1{
 }
 h2{
     color:#c9501893;
-}
-.potatoes{
-    width: 100px;
-    height:auto;
-    position: relative;
-    top:0;
-    left:0;
-    
 }
